@@ -20,7 +20,6 @@ Qual a sua finalidade?
 - Garantir a `integridade` desses atributos.
 
 ## **Exemplo** de Método Construtor para classe `Pessoa`:
-***
 ~~~java
 public class Pessoa {
     // ATRIBUTOS DA CLASSE PESSOA
@@ -34,6 +33,8 @@ public class Pessoa {
     }
 }
 ~~~~
+
+***
 
 # 2 - Encapsulamento
 
