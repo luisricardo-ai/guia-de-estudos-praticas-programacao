@@ -13,7 +13,7 @@ Vamos primeiramente entender o que a `sobrecarga de métodos`.
 Qual a finalidade de utilizar essa técnica?
 
 - Basicamente trata-se de criarmos 2 ou mais métodos com a **mesma nomenclatura** e, normalmente a mesma funcionalidade dentro da classe. Mas intrinsecamente a diferença entre as classes serão os **parâmetros esperados** para o funcionamento da função em questão.
-- Importante lembrar também que a sobre carga pode ser também quando temos um `método que não espera nada do usuário`, e outra situação que pode esperar algo do usuário.
+- Importante lembrar também que a sobre carga pode ser também quando temos um `método que não espera nada do usuário`, e outra situação que pode esperar algo do usuário. 
 
 Veja os exemplos abaixo:
 
@@ -39,6 +39,7 @@ public class Pessoa {
     }
 }
 ~~~
+
 ***
 
 ## 2 - Sobrecarga em Construtores

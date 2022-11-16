@@ -47,6 +47,4 @@ public class Pessoa {
     public void setEstadoCivil(String estadoCivil) {
         this.estadoCivil = estadoCivil;
     }
-
-    
 }
