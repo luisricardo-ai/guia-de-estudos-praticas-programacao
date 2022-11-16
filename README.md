@@ -35,3 +35,5 @@ Esse material foi contruindo usando como base meus estudos na [`UNIVATES`](https
 - http://www.btechsmartclass.com/java/java-variables-in-interfaces.html
 
 - https://www.guj.com.br/t/classe-interna-de-interface/113764
+
+- https://rodrigorgs.github.io/aulas/poo/aula-classes-internas#:~:text=A%20classe%20interna%20pode%20ter,nenhum%20membro%20da%20classe%20externa.
