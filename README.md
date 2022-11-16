@@ -31,3 +31,7 @@ Esse material foi contruindo usando como base meus estudos na [`UNIVATES`](https
 - https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991#:~:text=O%20Encapsulamento%20serve%20para%20controlar,esta%20classe%20poder%C3%A1%20ser%20manipulada
 
 - https://www.devmedia.com.br/sobrecarga-e-sobreposicao-de-metodos-em-orientacao-a-objetos/33066
+
+- http://www.btechsmartclass.com/java/java-variables-in-interfaces.html
+
+- https://www.guj.com.br/t/classe-interna-de-interface/113764
