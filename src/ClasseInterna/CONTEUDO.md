@@ -10,9 +10,9 @@
 
 ## 1 - Uso das Classes Internas
 
-***
-
 É conveniente criar classes internas quando seu uso só faz sentido **em conjunto de uma classe hospedeira/externa**.
+
+***
 
 ## 2 - Acessos da Classe Interna
 
